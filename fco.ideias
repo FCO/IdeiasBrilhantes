@@ -1,0 +1,7 @@
+perltugues
+temporizador
+threads::emulate
+threads::remote
+epitafio
+App::Rad::Plugin::Daemon
+App::Rad::Plugin::XlsFromSelect
