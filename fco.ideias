@@ -1,9 +1,28 @@
-perltugues                      - Refazer do 0!
-temporizador                    - iniciado e bem encaminhado
-threads::emulate                - Refazer do 0!
-threads::remote                 - Iniciar
-epitafio                        - Bem no inicio
-App::Rad::Plugin::Daemon        - Iniciado mas perdido, fazer denovo
-App::Rad::Plugin::XlsFromSelect - não iniciado
-dia2perl5                       - não iniciado
-dia2perl6                       - não iniciado
+* perltugues
+   - Refazer do 0!
+* temporizador
+   --> Tudo q eu preciso tá pronto. Mas ainda tem uma todolist:
+   - Terminar o configurador.pl
+   - Auto-logout
+      . Baseado em horario
+      . Baseado em uso do sistema
+      . Baseado em bluetooh
+   - Plugins
+   - Além de criar xls, criar tb arq do openoffice
+   - Transformar a criação de planilha em plugin
+   - Tornar a interface intercambiavel
+   - Tornar o core (não-interface) livre de dependencias
+* threads::emulate
+   --> Refazer do 0!
+* threads::remote
+   --> Iniciar
+* epitafio
+   --> Bem no inicio
+* App::Rad::Plugin::Daemon
+   --> Iniciado mas perdido, fazer denovo
+* App::Rad::Plugin::XlsFromSelect
+   --> não iniciado
+* dia2perl5
+   --> não iniciado
+* dia2perl6
+   --> não iniciado
