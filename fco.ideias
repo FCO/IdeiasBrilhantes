@@ -1,8 +1,14 @@
 * perltugues
    - Refazer do 0!
+* epitafio
+   --> Bem no inicio (ainda tenho q fazer algo de fato!)
+* ajudar o ruoso a integrar o SMOP com o p5
+   --> Primeiro eu tenho q perguntar ao Ruoso como eu posso ajudar
 * temporizador
    --> Tudo q eu preciso tá pronto. Mas ainda tem uma todolist:
    - Terminar o configurador.pl
+   - Login pegando hora pelo uptime (se isso tem menos de X minutos até o login)
+      . Deveria ser um plugin
    - Auto-logout
       . Baseado em horario
       . Baseado em uso do sistema
@@ -16,8 +22,6 @@
    --> Refazer do 0!
 * threads::remote
    --> Iniciar
-* epitafio
-   --> Bem no inicio
 * App::Rad::Plugin::Daemon
    --> Iniciado mas perdido, fazer denovo
 * App::Rad::Plugin::XlsFromSelect
